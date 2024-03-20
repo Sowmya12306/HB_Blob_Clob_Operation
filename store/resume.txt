@@ -1,0 +1,12 @@
+****************Object methods in java*********************
+protected object clone(); throws cloneNotSupportedException
+public boolean equals(Object o);
+protected void finalize() throws Throwable
+public final class getClass();
+public int hashCode();
+public String toString();
+pubic final void notify()
+public final void notifyAll();
+public final void wait();
+public final void wait(long timeout)
+public final void wait(long timeout, int nanos)
